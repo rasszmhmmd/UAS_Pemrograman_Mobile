@@ -1,6 +1,8 @@
 # pelacak_diskon
 
-A new Flutter project.
+Sebuah Aplikasi yang dibuat untuk memenuhi UAS Pemrograman Mobile
+
+Aplikasi ini adalah aplikasi yang membantu pengguna untuk mengetahui games apa saja yang sedang mendapatkan diskon di berbagai macam platform
 
 ## Getting Started
 
